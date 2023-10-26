@@ -10,6 +10,9 @@ import java.util.Locale;
 /**
  *
  * @author Lenovo
+ Nama :Ma'rifatu Khirzah
+ NIM :22205025
+ Prodi :Teknik Informatika
  */
 public class Latihan26 {
 
