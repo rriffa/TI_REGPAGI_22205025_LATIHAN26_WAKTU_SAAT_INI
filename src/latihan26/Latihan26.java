@@ -13,6 +13,7 @@ import java.util.Locale;
  Nama :Ma'rifatu Khirzah
  NIM :22205025
  Prodi :Teknik Informatika
+ Deskripsi :Membuat program menampilkan waktu saat ini sesuai dengan lokasi kita berada saat ini.
  */
 public class Latihan26 {
 
